@@ -1,6 +1,6 @@
 # 常之书网页库
 这里是常之书部署向网页的版本。
-你可以访问 [thebook.常之书.site](thebook.常之书.site) 去参观。
+你可以访问 [thebook.常之书.site](https://thebook.常之书.site/) 去参观。
 
 我借助了 Digital Obsidian Garden 进行部署。
 
