@@ -1,16 +1,23 @@
 ---
-{"dg-publish":true,"permalink":"/资料仓库/华章初序/CHAPTER 0/","dgPassFrontmatter":true,"noteIcon":"\\！Read Me！\\others\\data\\svg","created":"2024-11-27T17:34:04.000+08:00","updated":"2024-11-27T17:34:04.000+08:00"}
+{"dg-publish":true,"permalink":"/资料仓库/华章初序/CHAPTER 0/","dgPassFrontmatter":true,"noteIcon":"\\！Read Me！\\others\\data\\svg","created":"2024-11-29T10:40:32.000+08:00","updated":"2024-11-29T10:40:32.000+08:00"}
 ---
 
 
 >[!warning] 
 >管理员留：不要在文档里随意使用方括号" [] ",它在obsidian 的文件渲染中有重要含义。
 
+</br>
 
 > [!quote] 
 > 由于之前对事物的认知过于幼稚，所以我觉得有必要把主线大改一些东西，将一些逻辑不通或者认知错误的东西修正过来，不过大概的确是不会改主要剧情的，不然某些人要尖叫了.
 > Btw 希望某人能帮我装修一下，我对此一窍不通
 > 另外一个很讨厌的点，如果直接输入空格当分割的话它会很自以为是的认为你是误操作，把你的空格删掉，在我拿不准标点然后敲空格的时候这真的很讨厌
+> 241128 补：
+> Byd 乱改世界观是吧，那我放飞了
+
+</br></br></br>
+
+
 
 
 
